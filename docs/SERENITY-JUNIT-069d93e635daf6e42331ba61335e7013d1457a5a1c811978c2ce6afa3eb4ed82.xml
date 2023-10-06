@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="1" failures="1" name="swag lab e-commerce application" skipped="0" tests="14" time="223.66" timestamp="2023-08-31 05:22:04"><testcase name="validate user interface header and footers  in"/><testcase name="Login with all users"><error message="Timed out after 0 seconds. Element not found&#10;For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element&#10;Build info: version: '4.8.0', revision: '267030adea'&#10;System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'&#10;Driver info: driver.version: unknown&#10;For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element&#10;Build info: version: '4.8.0', revision: '267030adea'&#10;System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'&#10;Driver info: driver.version: unknown" type="org.openqa.selenium.NoSuchElementException">Timed out after 0 seconds. Element not found
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.0', revision: '267030adea'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: driver.version: unknown
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.0', revision: '267030adea'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: driver.version: unknown</error><system-err>Timed out after 0 seconds. Element not found
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.0', revision: '267030adea'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: driver.version: unknown
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.0', revision: '267030adea'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: driver.version: unknown&#13;
+com.swaglabs.steps.LoginPageSteps.logWithWithAllUsers(LoginPageSteps.java:147)&#13;
+com.swaglabs.stepdef.StepDefinition.login_with_all_user(StepDefinition.java:68)&#13;
+✽.login with all user "locked_out_user","secret_sauce"(file:///C:/Users/RA20312005/Documents/22-23%20Poc/swaglabs/src/test/resources/features/swagslab.feature:14)&#13;
+</system-err></testcase><testcase name="validate user interface header and footer in inventory page"/><testcase name="validate sorting logic for name and price"/><testcase name="Add product to the cart"/><testcase name="validate one is showing near shopping cart"><failure message="Expected enabled element was not enabled&#10;Build info: version: '4.8.0', revision: '267030adea'&#10;System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'&#10;Driver info: driver.version: unknown" type="net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException">Expected enabled element was not enabled
+Build info: version: '4.8.0', revision: '267030adea'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: driver.version: unknown</failure><system-err>Expected enabled element was not enabled
+Build info: version: '4.8.0', revision: '267030adea'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: driver.version: unknown&#13;
+com.swaglabs.stepdef.StepDefinition.validateCountIsShowingNearShoppingCart(StepDefinition.java:137)&#13;
+✽.user validate the count "1" is showing near shopping cart(file:///C:/Users/RA20312005/Documents/22-23%20Poc/swaglabs/src/test/resources/features/swagslab.feature:56)&#13;
+</system-err></testcase><testcase name="vaidate userinterface headers and footers"/><testcase name="Add two more product and validate the count of the product"/><testcase name="Try to remove one product"/><testcase name="Store product detail in excel sheet"/><testcase name="Validate userinteface in checkout page"/></testsuite>
