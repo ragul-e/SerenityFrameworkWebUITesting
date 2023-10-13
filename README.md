@@ -34,7 +34,7 @@
 2. Drivers
 3. Test Data Excel file
 
-## TestNG
+
 ## Maven Build Tool
 ## loggers
 1. log4j2
