@@ -3,7 +3,7 @@
 
 **Test cases**
 1. URL: https://www.saucedemo.com/ 
-2. Validate user interface, headers and footers. 
+2. Validate user interface, headers and footers.
 3. Try to login with all users 
 4. In the inventory page, validate user interface, headers and footers. 
 5. At the right side dropdown, validate sorting logic for name and price. 
