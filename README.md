@@ -1,7 +1,7 @@
 # WebUiTestingWithSerenityFramework
 # Have a look at the serenity report [here](https://ragul-e.github.io/WebUiTestingWithSerenityFramework/)
 
-##Test cases##
+**Test cases**
 1. URL: https://www.saucedemo.com/ 
 2. Validate user interface, headers and footers. 
 3. Try to login with all users 
