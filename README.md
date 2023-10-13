@@ -1,4 +1,4 @@
-# WebUiTestingWithSerenityFramework
+# Web Ui Testing With Serenity Framework
 # Have a look at the serenity report [here](https://ragul-e.github.io/WebUiTestingWithSerenityFramework/)
 
 **Test cases**
