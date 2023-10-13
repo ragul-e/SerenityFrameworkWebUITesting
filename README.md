@@ -16,7 +16,7 @@
 12. Checkout the product. validate the headers, footers and user interface.
 
 
-# Topics Implemented in Framework
+# Topics Implemented in Framework level
 
 1. Selenium-java
 2. Data Driven Testing
@@ -34,6 +34,7 @@
 2. Drivers
 3. Test Data Excel file
 
+##Junit
 
 ## Maven Build Tool
 ## loggers
