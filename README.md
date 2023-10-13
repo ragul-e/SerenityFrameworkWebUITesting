@@ -51,10 +51,8 @@
 2. Post condition
 
 ## User Defined Exception
-## Screenshot for Failed Test cases
-## Runner
-1. Pom.xml
-2. TestNG.xml
+## Screenshot for all the serenity test steps
+
 
 ## Suite
 1. Pom.xml
