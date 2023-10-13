@@ -13,4 +13,48 @@
 9. Try to add 2 more product, and check if the 3 is showing near shopping cart. 
 10. Try to remove one product in shopping cart. 
 11. Then store the products ordered in excel sheet with the cost. 
-12. Checkout the product. validate the headers, footers and user interface. 
+12. Checkout the product. validate the headers, footers and user interface.
+
+
+# Topics Implemented in Framework
+
+1. Selenium-java
+2. Data Driven Testing
+
+## /Src
+### Utilities
+1. Excel Reader
+2. Excel Writer
+3. Serenity methods
+4. Generics
+5. Constants
+
+## /resource
+1. Configuration Reader
+2. Drivers
+3. Test Data Excel file
+
+## TestNG
+## Maven Build Tool
+## loggers
+1. log4j2
+
+
+
+## Report
+1. Serenity Report
+
+## Retry Failed Test case
+## DataSetters
+## Funtion Library
+1. Pre condition
+2. Post condition
+
+## User Defined Exception
+## Screenshot for Failed Test cases
+## Runner
+1. Pom.xml
+2. TestNG.xml
+
+## Suite
+1. Pom.xml
