@@ -1,5 +1,5 @@
 # Web Ui Testing With Serenity Framework
-# Have a look at serenity test report [here](https://ragul-e.github.io/WebUiTestingWithSerenityFramework/)
+# Have a look at serenity test report [here](https://ragul-e.github.io/WebUi-Testing-With-SerenityFramework/)
 
 **Test cases**
 1. URL: https://www.saucedemo.com/ 
